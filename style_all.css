@@ -1,0 +1,313 @@
+.untitled-page.introSection {
+  display: flex;
+  flex-direction: column;
+  background-color: #ededed;
+  overflow: hidden;
+}
+.untitled-page .flexColContainer {
+  display: flex;
+  flex-direction: column;
+}
+.untitled-page .heroGroup {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 814px;
+}
+.untitled-page .heroTextColor {
+  position: relative;
+  width: 1920px;
+  height: 814px;
+  background-color: #212121;
+}
+.untitled-page .textFlexCol {
+  position: absolute;
+  inset: 69px 83px 67px 82px;
+  display: flex;
+  flex-direction: column;
+  gap: 208px 0;
+  width: 1755px;
+  height: 678px;
+}
+.untitled-page .heroTitleMain {
+  width: 1755px;
+  height: 282px;
+  font: 700 96px/1.46 Heebo, Helvetica, Arial, serif;
+  color: #ededed;
+}
+.untitled-page .heroSubtitleName {
+  margin: 0 1153px 0 0;
+  width: 602px;
+  height: 188px;
+  font: 700 64px/1.46 Heebo, Helvetica, Arial, serif;
+  color: #b9b9b9;
+}
+.untitled-page .heroImage {
+  position: absolute;
+  inset: 92px 0 0 1195px;
+  width: 725px;
+  height: 722px;
+}
+.untitled-page .additionalGroup {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.untitled-page .colorFlexCol {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+.untitled-page .colorSection1 {
+  width: 1920px;
+  height: 59px;
+  background-color: #b9b9b9;
+}
+.untitled-page .colorSection2 {
+  margin: 905px 0 0;
+  width: 1920px;
+  height: 59px;
+  background-color: #b9b9b9;
+}
+.untitled-page .colorSection3 {
+  margin: 535px 0 0;
+  width: 1920px;
+  height: 59px;
+  background-color: #b9b9b9;
+}
+.untitled-page .colorSection4 {
+  margin: 1683px 0 0;
+  width: 1920px;
+  height: 59px;
+  background-color: #b9b9b9;
+}
+.untitled-page .colorSection5 {
+  margin: 427px 0 0;
+  width: 1920px;
+  height: 59px;
+  background-color: #b9b9b9;
+}
+.untitled-page .colorSection6 {
+  margin: 585px 0 0;
+  width: 1920px;
+  height: 59px;
+  background-color: #b9b9b9;
+}
+.untitled-page .storyGroup {
+  position: absolute;
+  top: 1680px;
+  left: 82px;
+  display: flex;
+  flex-direction: column;
+  width: 1798px;
+  height: 177px;
+}
+.untitled-page .projectDescriptionGroup {
+  position: absolute;
+  top: -1302px;
+  left: -82px;
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 2239px;
+}
+.untitled-page .projectTitle1 {
+  position: absolute;
+  inset: -8px 71px 1775px 917px;
+  width: 932px;
+  height: 472px;
+  font: 700 40px/1.47 Heebo, Helvetica, Arial, serif;
+  color: #212121;
+}
+.untitled-page .projectImageContainer {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 1920px;
+  height: 2239px;
+}
+.untitled-page .projectImage1 {
+  margin: 0 1083px 0 82px;
+  width: 755px;
+  height: 512px;
+  border-radius: 50px;
+  outline: 8px solid #b9b9b9;
+  outline-offset: -8px;
+}
+.untitled-page .imageRowContainer {
+  display: flex;
+  margin: 133px 0 0;
+  width: 1920px;
+  height: 535px;
+}
+.untitled-page .projectImage2 {
+  width: 775px;
+  height: 535px;
+}
+.untitled-page .projectImage3 {
+  width: 356px;
+  height: 535px;
+}
+.untitled-page .decorativeImage1 {
+  width: 789px;
+  height: 535px;
+}
+.untitled-page .projectImage4 {
+  margin: 486px 1019px 0 82px;
+  width: 819px;
+  height: 573px;
+  border-radius: 50px;
+  outline: 8px solid #b9b9b9;
+  outline-offset: -8px;
+}
+.untitled-page .projectTitle2 {
+  position: absolute;
+  top: -252px;
+  left: 82px;
+  width: 1767px;
+  height: 118px;
+  font: 700 40px/1.47 Heebo, Helvetica, Arial, serif;
+  color: #212121;
+}
+.untitled-page .projectTitle3 {
+  position: absolute;
+  bottom: 42px;
+  left: 981px;
+  width: 845px;
+  height: 531px;
+  font: 700 40px/1.47 Heebo, Helvetica, Arial, serif;
+  color: #212121;
+}
+.untitled-page .inspirationTitle {
+  position: relative;
+  font: 700 40px/1.47 Heebo, Helvetica, Arial, serif;
+  color: #212121;
+}
+.untitled-page .educationalPursuitTitle {
+  position: absolute;
+  top: 2757px;
+  left: 82px;
+  width: 1767px;
+  height: 413px;
+  font: 700 40px/1.47 Heebo, Helvetica, Arial, serif;
+  color: #212121;
+}
+.untitled-page .inspirationImageGroup {
+  position: absolute;
+  bottom: 687px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  width: 701px;
+  height: 443px;
+}
+.untitled-page .inspirationalImage1 {
+  position: absolute;
+  inset: 0 -1563px 19px 344px;
+  width: 1920px;
+  height: 424px;
+}
+.untitled-page .inspirationalImage2 {
+  position: relative;
+  width: 701px;
+  height: 443px;
+}
+.untitled-page .hobbyConsiderationTitle {
+  position: absolute;
+  bottom: 441px;
+  left: 89px;
+  width: 1763px;
+  height: 118px;
+  font: 700 40px/1.47 Heebo, Helvetica, Arial, serif;
+  color: #212121;
+}
+.untitled-page .hobbyImage {
+  position: absolute;
+  bottom: 113px;
+  left: 808px;
+  width: 304px;
+}
+.untitled-page .contactFlexRow {
+  position: absolute;
+  bottom: -319px;
+  left: 190px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0 10px;
+  width: 1501px;
+  height: 255px;
+}
+.untitled-page .contactColTelegram {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 90px 0;
+  width: 276px;
+  height: 255px;
+}
+.untitled-page .contactTitleTelegram {
+  width: 276px;
+  height: 94px;
+  font: 700 64px/1.46 Heebo, Helvetica, Arial, serif;
+  color: #b9b9b9;
+}
+.untitled-page .contactSubtitleTelegram {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0 16px;
+  width: 244px;
+  height: 71px;
+  font: 700 48px/1.47 Heebo, Helvetica, Arial, serif;
+  color: #b9b9b9;
+  text-align: right;
+}
+.untitled-page .contactColGmail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 90px 0;
+  width: 495px;
+  height: 255px;
+}
+.untitled-page .contactTitleGmail {
+  margin: 0 149px;
+  width: 197px;
+  height: 94px;
+  font: 700 64px/1.46 Heebo, Helvetica, Arial, serif;
+  color: #b9b9b9;
+}
+.untitled-page .contactSubtitleGmail {
+  width: 495px;
+  height: 71px;
+  font: 700 48px/1.47 Heebo, Helvetica, Arial, serif;
+  color: #b9b9b9;
+}
+.untitled-page .contactColVK {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 85px 0;
+  margin: 0 0 5px;
+  width: 223px;
+  height: 250px;
+}
+.untitled-page .contactTitleVK {
+  margin: 0 70px;
+  width: 83px;
+  height: 94px;
+  font: 700 64px/1.46 Heebo, Helvetica, Arial, serif;
+  color: #b9b9b9;
+}
+.untitled-page .contactSubtitleVK {
+  width: 223px;
+  height: 71px;
+  font: 700 48px/1.47 Heebo, Helvetica, Arial, serif;
+  color: #b9b9b9;
+}
+.untitled-page .colorSection41 {
+  width: 1920px;
+  height: 395px;
+  background-color: #212121;
+}
